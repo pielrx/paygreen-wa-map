@@ -380,7 +380,7 @@
         {
          "columns":9,
          "firstgid":2683,
-         "image":"..\/..\/..\/Downloads\/tilemap.png",
+         "image":"src\/assets\/tilemap.png",
          "imageheight":64,
          "imagewidth":288,
          "margin":0,
