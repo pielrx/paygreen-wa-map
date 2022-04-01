@@ -206,12 +206,12 @@
                 {
                  "name":"audioVolume",
                  "type":"float",
-                 "value":0.1
+                 "value":0.2
                 }, 
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/icecast.radiofrance.fr\/fip-midfi.mp3"
+                 "value":"http:\/\/direct.fipradio.fr\/live\/fip-midfi.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
